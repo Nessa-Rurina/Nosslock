@@ -1,12 +1,3 @@
-_G.Prediction =  (  .18  )
-
-_G.AimKey =  (  "c"  )
-
-
---[[
-Do not edit anything under this.
-]]
-
 local SilentAim = true
 local LocalPlayer = game:GetService("Players").LocalPlayer
 local Players = game:GetService("Players")
