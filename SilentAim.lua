@@ -1,6 +1,3 @@
- 
-_G.FOV =  (  180  )
-
 _G.Prediction =  (  .18  )
 
 _G.AimKey =  (  "c"  )
